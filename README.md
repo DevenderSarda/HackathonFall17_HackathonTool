@@ -9,3 +9,4 @@ Online Hackathon tool is an online web application portal where user can registe
 --> Easily accessible on any device and browsers.
 
 Application Demo: https://youtu.be/C7aOANZ5j6c
+Hosted URL: https://umkchackathon.github.io/
